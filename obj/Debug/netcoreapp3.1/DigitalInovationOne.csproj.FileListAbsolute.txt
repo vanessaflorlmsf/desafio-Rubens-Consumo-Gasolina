@@ -1,0 +1,13 @@
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.exe
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.deps.json
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.json
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.dev.json
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Users\keep\dicitalOne\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csprojAssemblyReference.cache
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Users\keep\dicitalOne\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.genruntimeconfig.cache
